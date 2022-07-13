@@ -121,9 +121,7 @@ Microsoft придерживается выпуска добавочных ве�
 
 Эта ветвь лицензирована для использования в рабочей среде. Она предоставляет доступ к новейшим компонентам и функциям. Эту ветвь можно использовать при наличии лицензий Configuration Manager по программе Software Assurance (SA) и License and Software Assurance (L&SA), а так же при наличии таких подписок как Enterprise Mobility + Security (EMS) и Microsoft 365 корпоративный. Могут быть и другие программы лицензирования, но эти наиболее распространенные.
 
-![Configuration Manager Servicing Support](./configmgr_servicing_support.png)
-
-[https://docs.microsoft.com/ru-ru/mem/configmgr/core/servers/manage/media/servicing_support_timeline.png#lightbox](https://docs.microsoft.com/ru-ru/mem/configmgr/core/servers/manage/media/servicing_support_timeline.png#lightbox)
+![Configuration Manager Servicing Support](https://docs.microsoft.com/ru-ru/mem/configmgr/core/servers/manage/media/servicing_support_timeline.png#lightbox)
 
 
 ### Ознакомительная установка Current Branch
@@ -157,4 +155,4 @@ Microsoft придерживается выпуска добавочных ве�
 
 Чтобы ознакомится что нового появляется в новых версиях, необходимо ознакомится со статьей в официальной документации 
 
-[https://docs.microsoft.com/ru-ru/mem/configmgr/core/plan-design/changes/whats-new-incremental-versions] (https://docs.microsoft.com/ru-ru/mem/configmgr/core/plan-design/changes/whats-new-incremental-versions)
+[https://docs.microsoft.com/ru-ru/mem/configmgr/core/plan-design/changes/whats-new-incremental-versions](https://docs.microsoft.com/ru-ru/mem/configmgr/core/plan-design/changes/whats-new-incremental-versions)
