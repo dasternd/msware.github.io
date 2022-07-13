@@ -1,0 +1,1 @@
+## История развития версий Configuration Manager
