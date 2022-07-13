@@ -1,4 +1,4 @@
-[Главная](/README.md) - [Configuration Manager](/ConfigMgr/index.md)
+[Главная](/) - [Configuration Manager](/ConfigMgr/)
 
 # История развития версий Configuration Manager
 
