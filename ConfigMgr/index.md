@@ -1,2 +1,2 @@
 ## Configuration Manager (SCCM/MECM)
-- [История развития версий Configuration Manager](./History/)
+- [История развития версий Configuration Manager](./History/index.md)
