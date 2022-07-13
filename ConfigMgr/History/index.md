@@ -1,3 +1,5 @@
+[Главная](/README.md) - [Configuration Manager](/ConfigMgr/index.md)
+
 # История развития версий Configuration Manager
 
 ![Configuration Manager roadmap](./configmgr-roadmap.png)
